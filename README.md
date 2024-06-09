@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kirinyaofficial" target="blank"><img src="https://img.shields.io/twitter/follow/kirinyaofficial?logo=twitter&style=for-the-badge" alt="kirinyaofficial" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, Go**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on [Sunduk](https://github.com/Emmanuel-Melon/sunduk-backend)
 
