@@ -18,10 +18,10 @@
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **Empowering Lifestyle** | A registered NDIS provider platform for disability support services, focused on client-centered independence. | `HTML, CSS & JS` | [🚀 Inactive](https://eplifesyle.vercel.app/) |
+| **Empowering Lifestyle** | A registered NDIS provider platform for disability support services, focused on client-centered independence. | `HTML, CSS & JS` | [🚀 Demo](https://eplifesyle.vercel.app/) |
 | **CDD System** | A specialized system designed to track the capacity development of individuals and organizations. | `Next.js, Go, PostgreSQL` | [🚀 Demo](https://cdd-demo-five.vercel.app) |
 | **Nurse Info System** | Healthcare management portal for tracking nurse records, patient assignments, and ward logic. | `Next.js, Go, PostgreSQL` | [🚀 Demo](https://his-nis-web.vercel.app/login) |
-| **Losuk Exito** | Corporate website for a branding company showcasing their professional service catalog. | `Next.js` | [🚀 Inactive](https://losukexito.vercel.app/) |
+| **Losuk Exito** | Corporate website for a branding company showcasing their professional service catalog. | `Next.js` | [🚀 Demo](https://losukexito.vercel.app/) |
 | **Nansudan Ltd** | Logistics and clearing agent platform showcasing international services between China 🇨🇳 and South Sudan. | `Next.js` | [🌐 Live Site](https://nansudanltd.com/) |
 | **Idhoka** | Retail pharmacy platform in Juba featuring business highlights and a roadmap for online ordering. | `Next.js, React` | [🌐 Live Site](https://idhoka.com/) |
 | **SSWCP** | Official website for the South Sudan Women's Coalition for Peace. | `Sanity CMS, React` | [🌐 Live Site](https://sswcp.org/) |
