@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kirinya</h1>
 <p align="center">
-  <a href="https://twitter.com/kirinyaofficial"><img src="https://img.shields.io/twitter/follow/kirinyaofficial?logo=twitter&style=for-the-badge&color=00acee&labelColor=000000" alt="twitter" /></a>
+  find me on: 
+  <a href="https://www.linkedin.com/in/kirinyaofficial/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" align="center" />
+  </a>
 </p>
 
 <h3 align="center">Software Developer • Designer • Technology Specialist</h3>
@@ -40,7 +43,8 @@
   <a href="mailto:kirinya@ingony.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://dev.to/kirinyaofficial"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" /></a>
   <a href="https://discord.gg/kirinyaofficial"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-  <a href="https://twitter.com/kirinyaofficial"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://x.com/kirinyaofficial"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kirinyaofficial/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
